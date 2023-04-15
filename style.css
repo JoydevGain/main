@@ -1,0 +1,14 @@
+/* Style for the download button */
+#downloadButton {
+    padding: 12px 24px;
+    background-color: white;
+    color: red;
+    font-size: 18px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    /* cursor: pointer; */
+    cursor: progress;
+    border-radius: 90%;
+    animation: alternate;
+    animation-duration: 5s;
+    /* animation: j duration timing-function delay iteration-count direction fill-mode; */
+}
